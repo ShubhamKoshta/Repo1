@@ -1,1 +1,1 @@
-child branch
+This is a child branch
